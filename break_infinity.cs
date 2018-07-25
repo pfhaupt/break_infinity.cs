@@ -80,7 +80,6 @@
                 else
                     return Mantissa.ToString("0.000") + "e" + Exponent.ToString();
             }
-        }
             n1 = n2 + n1;
             Console.WriteLine("Addition: "+n1);
             n3 = n3 - n2;
@@ -90,5 +89,3 @@
             n5 = n5 / n1;
             Console.WriteLine("Division: " + n5);
         }
-    }
-}
