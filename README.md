@@ -5,6 +5,4 @@ Cant show results lower than 0, these are just not defined. (Why would you want 
 
 Feel free to message me on reddit (username: MrLagSux) if you have questions or a game using this library!
 
-This library is open source and free to use/modify/fork for any purpose you want.
-
 ~MrLagSux
